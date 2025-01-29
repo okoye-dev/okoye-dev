@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, NEXT.Js, and Express**
 
-- 📫 You can each me at **dpokoye@gmail.com**
+- 📫 You can reach me at **dpokoye@gmail.com**
 
 - ⚡ Fun fact **I play basketball and paint, when I'm not maximizing shareholder value.**
 
