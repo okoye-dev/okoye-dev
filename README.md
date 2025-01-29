@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=okoye-dev&margin-w=15&margin-h=15" alt="okoye-dev"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=okoye-dev&margin-w=15&margin-h=15&title_height=20&icon_height=20" alt="okoye-dev"/>
   </a>
 </p>
 
