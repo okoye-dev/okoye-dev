@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Okoye Divine</h1>
+<h1 align="center">Hi 👋, I'm Okoye Divine-Paul</h1>
 <h3 align="center">Software Engineer specializing in Frontend with React, Next.js, and TypeScript. <br /> Backend with Express when the work calls for it. I'm Passionate about crafting clean, user-centric web experiences with modern tech stacks.</h3>
 
 ## Me
