@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Okoye Divine</h1>
 <h3 align="center">Software Engineer specializing in Frontend with React, Next.js, and TypeScript. <br /> Backend with Express when the work calls for it. I'm Passionate about crafting clean, user-centric web experiences with modern tech stacks.</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=okoye-dev&margin-w=15&margin-h=15" alt="okoye-dev"/>
-  </a>
-</p>
-
 - 🌱 I’m currently learning **Golang, and AI dev**
 
 - 💬 Ask me about **React, NEXT.Js, and Express**
