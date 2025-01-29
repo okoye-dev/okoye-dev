@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Okoye Divine-Paul
 
-<!--
-**okoye-dev/okoye-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer specializing in Frontend with React, Next.js, and TypeScript. 
+I also do Backend with Express when the work calls for it. 
+I'm Passionate about crafting clean, user-centric web experiences with modern tech stacks.
 
-Here are some ideas to get you started:
+## I'm a Developer with an eye for design!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tech Kit
+- React | Next.js | TypeScript
+- TailwindCSS | Framer Motion
+- RESTful APIs | GraphQL
+- Zustand | Redux
+- Git | GitHub (Obviously)
+
+## 🚀 I'm an artist, but I also love...
+- Building responsive, performant web applications
+- Implementing modern UI/UX with elegant animations
+- Creating reusable component libraries and design systems
+- Writing clean, maintainable code with TypeScript
+
+## 🌱 Currently Learning
+- Advanced state management patterns
+- Web accessibility best practices
+- Large-scale performance optimization
+
+## 📫 Let's Connect! I follow back :)
+Building the future of the web, one component at a time. I'm open to collaboration and exciting frontend opportunities.
