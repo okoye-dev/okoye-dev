@@ -4,7 +4,7 @@ Software Engineer specializing in Frontend with React, Next.js, and TypeScript.
 I also do Backend with Express when the work calls for it. 
 I'm Passionate about crafting clean, user-centric web experiences with modern tech stacks.
 
-## I'm a Developer with an eye for design!**
+## I'm a Developer with an eye for design!
 
 ## 🛠️ My Tech Kit
 - React | Next.js | TypeScript
