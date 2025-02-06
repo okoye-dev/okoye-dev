@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer specializing in Frontend with React, Next.js, and TypeScript. <br /> Backend with Express and NodeJs. I'm Passionate about crafting clean, user-centric web experiences with modern tech stacks.</h3>
 
 ## Me
-- 🌱 I’m currently learning **Golang, and AI dev**
+- 🌱 I’m currently learning **Golang, and High-end Frontend Optimization**
 
 - 💬 Ask me about **React, NEXT.Js, and Express**
 
