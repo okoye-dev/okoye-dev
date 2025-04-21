@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Okoye Divine-Paul</h1>
-<h3 align="center">Software Engineer specializing in Frontend with React, Next.js, and TypeScript. <br /> Backend with Express and NodeJs. I'm Passionate about crafting clean, user-centric web experiences with modern tech stacks.</h3>
+<h3 align="center">Software Engineer who really likes Golang, TypeScript is cool too. <br /> I like to build stuff on the web.</h3>
 
 ## Me
-- 🌱 I’m currently learning **Golang, and High-end Frontend Optimization**
+- 🌱 I’m currently learning **Data Engineering and High-end Frontend Optimization**
 
-- 💬 Ask me about **React, NEXT.Js, and Express**
+- 💬 Ask me about **Golang, React, and Express**
 
 - 📫 You can reach me at **dpokoye@gmail.com**
 
