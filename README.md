@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Okoye Divine-Paul</h1>
-<h3 align="center">Software Engineer who really likes Golang, TypeScript is cool too. <br /> I like to build stuff on the web.</h3>
+<h3 align="center">Me likes Golang, TypeScript is cool too. <br /> I like to build stuff on the web.</h3>
 
 ## Me
 - 🌱 I’m currently learning **Data Engineering and High-end Frontend Optimization**
